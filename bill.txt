@@ -1,0 +1,9 @@
+Order
+{orderId=1
+orderUser=Vladcl, 
+date=2022-05-12T17:57:41.688428400, 
+balance=191}
+["""Blanketed"" Eggplant "88
+, """Paella"" Fried Rice "31
+, """Like a Caesar"" "72
+]
